@@ -54,6 +54,20 @@ The project generates:
 - Trained ML model
 - Automated performance report
 
+## Results
+
+### Predicted vs Actual Propagation Delay
+
+![Predicted vs Actual Delay](outputs/predicted_vs_actual_delay.png)
+
+### Accuracy Improvement with More Training Data
+
+![Accuracy Improvement](outputs/accuracy_improvement_training_data.png)
+
+### Feature Importance
+
+![Feature Importance](outputs/feature_importance.png)
+
 ## Project Workflow
 
 ```text
@@ -73,16 +87,4 @@ Propagation Delay Prediction
        ↓
 Visualization & Analysis
 
-## Results
 
-### Predicted vs Actual Propagation Delay
-
-![Predicted vs Actual Delay](outputs/predicted_vs_actual_delay.png)
-
-### Accuracy Improvement with More Training Data
-
-![Accuracy Improvement](outputs/accuracy_improvement_training_data.png)
-
-### Feature Importance
-
-![Feature Importance](outputs/feature_importance.png)
